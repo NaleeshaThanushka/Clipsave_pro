@@ -1,0 +1,7 @@
+node_modules
+frontend/dist
+backend/node_modules
+backend/.env
+backend/downloads/*
+!backend/downloads/.gitkeep
+.DS_Store
